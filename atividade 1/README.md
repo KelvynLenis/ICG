@@ -1,7 +1,9 @@
 # Atividade 1
 
-  Utilizando a framework dispolinibilizada pelo professor e utilizando de algoritimos de computação gráfica deve-se rasterizar pontos e linhas.
+# Sobre a atividade
+  Utilizando a framework disponibilizada pelo professor e utilizando de algoritimos de computação gráfica o objetivo era rasterizar pontos e linhas na tela.
   
+# Funções
   * putPixel(): função que recebe três parametros, a coordenada x, y e uma cor.
     
     ![](images/putpixel.png)
