@@ -20,4 +20,8 @@
   - Adaptar o codigo pra que funcionasse no windows - falhou;
     
   O código foi testado por um amigo em sua máquina que me repassou o comportamento do programa.
-    
+  
+  ### Referências
+  
+* [Wikipedia](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm#:~:text=Bresenham%27s%20line%20algorithm%20is%20a,straight%20line%20between%20two%20points)   ;
+* Slides passado pelo professor.
