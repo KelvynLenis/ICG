@@ -7,3 +7,7 @@
   * Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está corretamente configurado no
       computador;
   * Se familizarizar com a estrutura de um programa OpenGL moderno.
+  
+ ## Funcionamento
+ 
+ ![](Imagens/triangulo.png)
