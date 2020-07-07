@@ -10,4 +10,4 @@
   
  ## Funcionamento
  
- ![](Imagens/triangulo.png)
+  ![](Imagens/triangulo.png)
