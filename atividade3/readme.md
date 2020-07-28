@@ -9,6 +9,8 @@ A seguinte imagem e transformações foram obtidas fazendo alterações na matri
   ![](Imagens/scale.png)
 
   O codigo que gerou a transformação:
+  
+  
   ![](Imagens/code1.png)
 
 ### Exercício 2
