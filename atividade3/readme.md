@@ -19,6 +19,8 @@ A seguinte imagem e transformações foram obtidas fazendo alterações na matri
 ![](Imagens/translation.png)
 
 O codigo que gerou a transformação:
+
+
 ![](Imagens/code2.png)
 
 ### Exercício 3
@@ -27,6 +29,8 @@ A seguinte imagem e transformações foram obtidas fazendo alterações na matri
 ![](Imagens/proj.png)
 
 O codigo que gerou a transformação:
+
+
 ![](Imagens/code3.png)
 
 ### Exercício 4
@@ -35,6 +39,8 @@ A seguinte imagem e transformações foram obtidas mantendo a a matriz *projecti
 ![](Imagens/4.png)
 
 O codigo que gerou a transformação:
+
+
 ![](Imagens/code4.png)
 
 ### Exercício 5
@@ -43,4 +49,6 @@ O ultimo exercício é uma transformação livre, alterando as três matrizes pa
 ![](Imagens/freesstyle.png)
 
 O codigo que gerou a transformação:
+
+
 ![](Imagens/code5.png)
