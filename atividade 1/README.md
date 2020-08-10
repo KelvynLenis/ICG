@@ -1,7 +1,11 @@
 # Atividade 1
 
 ### Sobre a atividade
-  Utilizando a framework disponibilizada pelo professor e utilizando de algoritimos de computação gráfica o objetivo era rasterizar pontos e linhas na tela.
+  Rasterizar pontos, retas e triangulos utilizando a framework passada pelo professor.
+
+### Funções
+
+![](Imagens/putpixel.png)
   
   
   ### Referências
