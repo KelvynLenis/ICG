@@ -5,8 +5,27 @@
 
 ### Funções
 
+- putPixel(): função que rasteriza um pont.
+
 ![](images/putpixel.png)
   
+- drawLine(): A função drawline, feita a partir do algoritmo de Bresenham, foi dividida em duas outras funções: drawLineLow e drawLineHigh. A divisão foi feita para lidar com os octantes e rasterizar as linhas em qualquer direção. A função recebe como parametros 2 vertices do tipo tVertice, criados a partir de uma struct que possui 3 variaveis: coordenada x, coordenada y e cor.
+
+![](Imagens/drawline.png)
+
+- drawLineLow(): subparte da função drawline, como mencionado anteriormente.
+
+![](Imagens/drawlineh1.png)
+![](Imagens/drawlinel2.png)
+
+- drawLineHigh(): subparte da função drawline, como mencionado anteriormente.
+
+![](Imagens/drawlinel1.png)
+![](Imagens/drawlineh2.png)
+
+- Exemplo de saida: 
+
+![](Imagens/line.png)
   
   ### Referências
   
