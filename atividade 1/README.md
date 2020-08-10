@@ -5,7 +5,7 @@
 
 ### Funções
 
-![](imagens/putpixel.png)
+![](images/putpixel.png)
   
   
   ### Referências
