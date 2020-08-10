@@ -7,12 +7,12 @@
 ### Exercício 1
   Implementação do Modelo de Reflexão Difuso
 
-  ![](images/teapot.png)
+  ![](Imagens/teapot.png)
   
 ### Exercício 2
    Implementação do Modelo de Reflexão Especular
 
-![](images/teapot2.png)
+![](Imagens/teapot2.png)
 
 - Code: 
-![](images/cod4.png)
+![](Imagens/cod4.png)
